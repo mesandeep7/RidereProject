@@ -129,7 +129,7 @@
     .background-image {
         top:-20px !important;
         /* right: 0px; */
-        /* transform: translateX(0); */
+        transform: translateX(0);
         width: 400px;
         top: 200px;
         animation: slideImage 5s ease;

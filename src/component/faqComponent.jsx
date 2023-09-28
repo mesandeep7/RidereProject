@@ -54,7 +54,7 @@ const FAQApp = () => {
       answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
     },
     {
-      question: "Do I need to code?",
+      question: "WHAT’S THE TEA? A NEW WORD OF THE DAY QUIZ IS OUGossip about the great words from September  2023",
       answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
     }
   ];
