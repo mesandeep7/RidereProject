@@ -6,6 +6,7 @@ class LandingPgePart extends Component {
   render() {
     return (
       <div>
+        {/* <div className="container-fluid cardSec " id="maincontainer"> */}
         <div className="container-fluid cardSec " id="maincontainer">
           <div id="matter">
             <Slide direction="up" >

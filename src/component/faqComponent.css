@@ -8,7 +8,7 @@
   
   .faq-section { /* Updated class name */
     margin: 0;
-    padding: 100px 0;
+    /* padding: 100px 0; */
     font-family: 'Inter', sans-serif;
     background: #fff;
     color: #4d5974;
